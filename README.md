@@ -7,5 +7,4 @@
 npm install
 nodemon index.js
 
-## or type the URL
-https://ahmad-afk-debug.github.io/world-capitals/
+
